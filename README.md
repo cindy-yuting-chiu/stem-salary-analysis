@@ -1,4 +1,4 @@
-# stem-salary-analysis
+# What Affects Salaries for STEM Positions? 
 
 ## Introduction
 
